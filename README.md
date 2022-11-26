@@ -20,5 +20,5 @@ Proje örnek görsel:
 
 ![projegörseli](https://i.hizliresim.com/5bl4rfm.png)
 ## Hazırlayan
-**Medetcan Dİler**
+**Medetcan Diler**
 
